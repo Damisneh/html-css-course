@@ -1,0 +1,49 @@
+.storyline {
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  text-align: center;
+  width: 300px;
+  line-height: 24px;
+  margin: 0px;
+  line-height: 20px;
+}
+.video-stats {
+  font-family: arial;
+  font-size: 14px;
+  color: grey;
+  margin: 0px;
+}
+.apple-text {
+  font-family: arial;
+  font-size: 12px;
+  background-color: rgb(227, 65, 64);
+  color: white;
+  text-align: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  
+
+
+}
+.span-example{
+  color: red;
+  cursor: pointer;
+  margin-left: 12px;
+
+
+}
+
+.span-example:hover {
+  text-decoration: underline;
+}
+
+.text-link {
+  cursor: pointer;
+
+}
+.text-link:hover {
+  text-decoration: underline;
+
+}
